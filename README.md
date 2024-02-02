@@ -1,6 +1,6 @@
 # Memory Game
 
-# To Do
+## To Do
 - [x] initialize index, style, and script files
 - [x] create the game board and fill it with 9 tiles of 3 colors
 - [ ] create a play button
