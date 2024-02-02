@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    box-sizing: content-box;
+}
+#screen {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(12, 73, 15);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#game {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    background: rgb(231, 231, 231);
+    box-shadow: black 10px 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tiles {
+    height: 100px;
+    width: 100px;
+}
+.tiles:hover {
+    opacity: 0.7;
+}
+#tile1 {
+    background-color: darkcyan;
+}
+#tile2 {
+    background-color: darkcyan;
+}
+#tile3 {
+    background-color: blueviolet;
+}
+#tile4 {
+    background-color: chocolate;
+}
+#tile5 {
+    background-color: blueviolet;
+}
+#tile6 {
+    background-color: chocolate;
+}
+#tile7 {
+    background-color: chocolate;
+}
+#tile8 {
+    background-color: darkcyan;
+}
+#tile9 {
+    background-color: blueviolet;
+}
