@@ -11,3 +11,6 @@
 - [ ] make it so if the player matches all the tiles they're points increment and the tiles are randomized and the countdown starts again
 - [ ] if the player loses all their lives, the game is over
 - [ ] display how many points the player got and a "play again?" button
+
+## How to Play
+[Click Here to Play](isaiahthedev.github.io/memory-game/)
