@@ -13,4 +13,4 @@
 - [ ] display how many points the player got and a "play again?" button
 
 ## How to Play
-[Click Here to Play](isaiahthedev.github.io/memory-game/)
+[Click Here to Play](https://isaiahthedev.github.io/memory-game/)
